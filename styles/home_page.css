@@ -26,7 +26,8 @@ nav{
     align-items: center;
     justify-content: space-between;
 }
-nav .logo{
+nav .logo8{
+    
     width: 150px;
 }
 nav ul li{
@@ -38,6 +39,10 @@ nav ul li a{
     text-decoration: none;
     color: #fff;
     font-size: 17px;
+    
+}
+.l1{
+    margin-left: 200px;
 }
 .content{
     text-align: start;
@@ -364,6 +369,8 @@ nav ul li a{
 
 }
 
+
+
 .img1{
     width: 33.33vw; 
     background-size: cover;
@@ -415,28 +422,35 @@ nav ul li a{
     margin-top: 10%;
     height: 40vh;
     width: 40vw;
-    border: solid crimson;
+    
 }
 .line1{
     display: flex;
     position: absolute;
-    border: solid white;
+
     height: 100%;
-    width: 40%;
+    width: 50%;
+    line-height: 200%;
 }
 .line2{
     display: flex;
     position: absolute;
-    border: solid white;
+    
     height: 100%;
-    left: 40%;
-    width: 30%;
+    left: 100%;
+    width: 51%;
+    line-height: 200%;
 }
 .line3{
     display: flex;
     position: absolute;
-    border: solid white;
+    
     height: 100%;
-    left: 70%;
-    width: 30%;
+    left: 150%;
+    width: 51%;
+    line-height: 200%;
+}
+.textbottom{
+    font-size: 10px;
+    opacity: 0.5;
 }
