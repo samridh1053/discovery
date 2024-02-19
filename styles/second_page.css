@@ -531,3 +531,10 @@ nav ul li a{
     font-size: 10px;
     opacity: 0.5;
 }
+
+.hov{
+    transition: all 0.5s;
+}
+.hov:hover{
+    transform: scale(1.2);
+}
