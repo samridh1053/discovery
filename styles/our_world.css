@@ -1,0 +1,235 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font: Regular ;
+}
+body{
+    overflow-x: hidden;
+}
+
+.screen1{
+    width: 98.8vw;
+    height: 400vh;
+    position: relative;
+    padding: 1%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: black;
+    flex-direction: column;
+}
+nav{
+    width: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 20px 8%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+nav .logo8{
+    
+    width: 150px;
+}
+nav ul li{
+    list-style: none;
+    display: inline-block;
+    margin-left: 40px;
+}
+nav ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-size: 17px;
+    
+}
+
+.row1{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: bisque; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    top: 5%;
+    padding: 1.5%;
+    /* border: solid red; */
+    justify-content: space-between;
+    gap: 5px;
+}
+
+.row2{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: red; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 15%;
+}
+
+.row3{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: brown; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 25%;
+}
+
+.row4{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: pink; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 35%;
+}
+
+
+.row5{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: green; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 45%;
+}
+
+.row6{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: blue; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 55%;
+}
+
+.row7{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: orange; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 65%;
+}
+
+.row8{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: lightblue; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 75%;
+}
+
+.row9{
+    height: 40vh;
+    width: 98.9vw;
+    /* background-color: lightgoldenrodyellow; */
+    color: #fff;
+    display: flex;
+    position: absolute;
+    padding: 1.5%;
+    justify-content: space-between;
+    gap: 5px;
+    top: 85%;
+}
+
+
+.screen2{
+    height: 80vh;
+    width: 100vw;
+    background-color: rgb(4, 19, 4);
+}
+
+.logo{
+    display: flex;
+    position: absolute;
+    left: 16vh;
+    margin-top: 10%;
+    height: 10vh;
+    width: 10vw;
+    
+}
+
+.lines{
+    display: flex;
+    position: absolute;
+    left: 55%;
+    margin-top: 10%;
+    height: 40vh;
+    width: 40vw;
+    
+}
+.line1{
+    display: flex;
+    position: absolute;
+
+    height: 100%;
+    width: 50%;
+    line-height: 200%;
+}
+.line2{
+    display: flex;
+    position: absolute;
+    
+    height: 100%;
+    left: 100%;
+    width: 51%;
+    line-height: 200%;
+}
+.line3{
+    display: flex;
+    position: absolute;
+    
+    height: 100%;
+    left: 150%;
+    width: 51%;
+    line-height: 200%;
+}
+.textbottom{
+    font-size: 10px;
+    opacity: 0.5;
+}
+body{
+    overflow-x: hidden;
+}
+
+
+
+
+
+
+
+
